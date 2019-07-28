@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="cp_dialog_height">300dp</dimen>
+    <dimen name="cp_dialog_width">200dp</dimen>
+    <dimen name="group_details_iv">185dp</dimen>
+
+    <dimen name="dim_1dp">1dp</dimen>
+    <dimen name="dim_2dp">2dp</dimen>
+    <dimen name="dim_4dp">4dp</dimen>
+    <dimen name="dim_8dp">8dp</dimen>
+    <dimen name="dim_16dp">16dp</dimen>
+    <dimen name="dim_24dp">24dp</dimen>
+    <dimen name="dim_32dp">32dp</dimen>
+    <dimen name="dim_40dp">40dp</dimen>
+    <dimen name="dim_48dp">48dp</dimen>
+    <dimen name="dim_56dp">56dp</dimen>
+    <dimen name="dim_64dp">64dp</dimen>
+</resources>
